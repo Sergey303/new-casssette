@@ -1,0 +1,5 @@
+<img1> a <photo-doc> ;
+	<uri>  "iiss://new_cassette@iis.nsk.su/0001/0001/0001";
+	<documenttype>  "image/jpeg" ;
+	<metainfo> "origingal='0174.bmp'; " .
+

@@ -1,0 +1,11 @@
+<collection1> a <collection> ;
+		 <name>  "первая коллекция" .
+<collection-member1>  a <collection-member> ;
+		<collection-item> <collection1> ;
+		<in-collection> <CassetteRootCollection> .
+<collection-member2> a <collection-member> ;
+		<collection-item> <img1> ;
+		<in-collection> <collection1> .
+<collection-member3> a <collection-member> ;
+		<collection-item> <collection1> ;
+		<in-collection> <collection1> .
